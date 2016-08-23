@@ -85,7 +85,11 @@ Dedicated to Calvin and Hobbes.
 %%%%%%%%%%%
 \chapter*{Preface}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus ante, auctor et pulvinar non, posuere ac lacus. Praesent egestas nisi id metus rhoncus ac lobortis sem hendrerit. Etiam et sapien eget lectus interdum posuere sit amet ac urna.
-
+Create an Autoexec step so that each time you open the project the data tables gets loaded on the library.
+Step1: Load the SAS Data Files as a SAS library :
+        LIBNAME <any_valid_sas_name>  <  path of the directory where .sas files are present>
+        LIBNAME APOSTLE  $"C:\Files\Projects\Ambulance_NSW\rawdata"$;
+	
 \section*{Un-numbered sample section}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus ante, auctor et pulvinar non, posuere ac lacus. Praesent egestas nisi id metus rhoncus ac lobortis sem hendrerit. Etiam et sapien eget lectus interdum posuere sit amet ac urna. Aliquam pellentesque imperdiet erat, eget consectetur felis malesuada quis. Pellentesque sollicitudin, odio sed dapibus eleifend, magna sem luctus turpis.
 
