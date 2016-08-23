@@ -1,12 +1,49 @@
-### Description
-A ready-to-edit LaTeX template for book-style compilations.
 
-### Notes
-* If you are planning to write a book-length compilation in LaTeX, then feel free to use **book-template.tex** file from this repo.
+The readme presents the outline of intended content : The book would contain my learnings 
 
-* For the look-and-feel of final output/book, see [this PDF file](https://github.com/amberj/latex-book-template/raw/master/book-template.pdf). To be able to generate this PDF (and other output formats such as DVI), make sure you have TeX and LaTeX macro package installed. Change the current working directory to the directory containing **book-template.tex** and then use TeX/LaTeX tools to generate the output file. For more details, GIYF (i.e. Google Is Your Friend).
+Chapter 1 : Basics Programming:
+SAS : http://down.cenet.org.cn/upfile/79/200511814308147.pdf
+R    :
 
-### Useful resources
-* If you are new to LaTeX, I'll strongly recommend that you use [Gummi](http://gummi.midnightcoding.org/) and [LaTeXila](http://projects.gnome.org/latexila/) LaTeX editors together to edit LaTeX files. I especially like the "[Live Preview](http://dev.midnightcoding.org/attachments/download/241/gummi060-1.png)" option of [Gummi](http://gummi.midnightcoding.org/) which shows the PDF preview in real-time (correspoding to the LaTeX source edits made by the user).
-* [Books about TeX and Friends](http://www.tug.org/books/) webpage on _TeX Users Group_ website.
-* Free, community driven Q&A for users of TeX, LaTeX, ConTeXt, and related typesetting systems (part of the Stack Exchange network of Q&A websites): [http://tex.stackexchange.com/](http://tex.stackexchange.com/)
+Chapter 2: Data Manipulation 
+https://github.com/beckwang80/SAS/blob/master/SAS%20Programming%20II%20-%20manipulating%20data%20with%20the%20data%20step%20-%20ppt.pdf
+
+Chapter 3 : Basic PROC SQL statements
+http://www2.sas.com/proceedings/sugi29/268-29.pdf
+
+Chapter 4 : Advanced PROC SQL constructs
+http://www.sys-seminar.com/EE/Files/AdvancedSubqueriesinPROCSQL.pdf
+
+Chapter 5 : Descriptive Statistics
+https://www.udacity.com/course/intro-to-descriptive-statistics--ud827
+
+Chapter 6 : Inferential Statistics
+https://www.udacity.com/course/intro-to-inferential-statistics--ud201
+
+Chapter 7 : Introduction to ANOVA and Logistics Regression 
+https://support.sas.com/edu/schedules.html?id=1979&ctry=US
+
+Chapter 8 : Learning Decision Trees
+https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
+https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/
+
+Chapter 9 : Learn to Cluster in SAS
+http://support.sas.com/documentation/cdl/en/statugclustering/61759/PDF/default/statugclustering.pdf
+http://www.math.wpi.edu/saspdf/stat/chap23.pdf
+
+Chapter 10: Time Series Forecasting in SAS
+http://www1.udel.edu/FREC/ilvento/BUAD820/MOD604.pdf
+http://www.iasri.res.in/sscnars/sas_manual/5-ts_sas_lecture.pdf
+
+
+APPENDIX:
+Videos about K means Clustering
+https://www.youtube.com/watch?v=aiJ8II94qck&list=PLQbGGI2mvVjPPvWgs4hCR5FkXykzAu69S
+
+Learning SAS UCLA ATS
+http://www.ats.ucla.edu/stat/sas/notes/default.htm 
+
+
+
+
+
